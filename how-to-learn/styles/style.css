@@ -52,6 +52,7 @@
   line-height: 25px;
   font-weight: normal;
   margin:0;
+  z-index:3;
 }
 
 .header__link {
@@ -145,6 +146,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .section-subtitle {
